@@ -29,3 +29,4 @@ test_image = np.expand_dims(test_image, axis=0): Adds an additional dimension to
 Output: result will be a probability score in a 2D array. For example:
 If result[0][0] > 0.5, the image is classified as a Dog.
 If result[0][0] <= 0.5, the image is classified as a Cat.
+this project is uploaded in [medium.com](https://medium.com/@mhaddadi_darinsou/convolutional-neural-network-46a82e3e5cc0), too.
